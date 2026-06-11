@@ -1,4 +1,3 @@
-# Customer_Shopping_Behaviour_Analysis
 # Customer Shopping Behavior Analysis
 
 ## Project Overview
@@ -30,7 +29,7 @@ The dataset contains 3,900 customer purchase records with demographic, transacti
   - NumPy
   - Matplotlib
   - Seaborn
-- **SQL (PostgreSQL)**
+- **SQL (MySQL)**
 - **Power BI**
 - **Jupyter Notebook**
 
